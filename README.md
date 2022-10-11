@@ -1,4 +1,4 @@
-# NemoheroApp
+# Nemohero
 A gamified friend-making application.
 
 ## Project Rationale
@@ -10,4 +10,4 @@ The project is created in lieu of the team's interest in creating an anonymous p
 
 ## Team Members
 **May 2022 - Aug 2022**
-**Software Dev**: Chin Yun Ru, Dilys Pang.
+**Software Dev**: Chin Yun Ru, Dilys Pang Zi Shan.
